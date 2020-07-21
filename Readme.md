@@ -16,7 +16,7 @@ npm init
 - install TSC, TSLint and type declarations for nodeJS
 
 ```bash
-npm instal --save-dev typescript tslint @types/node
+npm install --save-dev typescript tslint @types/node
 ```
 
 - Create tsconfig.json
